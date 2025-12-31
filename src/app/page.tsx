@@ -59,6 +59,9 @@ export default function Home() {
             Documentation
           </a>
         </div>
+        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
+          <span>some here</span>
+        </div>
       </main>
     </div>
   );
