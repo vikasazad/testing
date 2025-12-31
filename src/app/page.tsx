@@ -61,6 +61,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
           <span>some here</span>
+          <span>some nothing here</span>
         </div>
       </main>
     </div>
